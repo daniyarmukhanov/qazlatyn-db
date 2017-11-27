@@ -1,5 +1,5 @@
 {
-  "name": "qazlatyn-db",
+  "name": "balama-db",
   "version": "2.0.2",
   "description": "Raw data of kazakh latin alphabet (qazaq latyn).",
   "main": "index.js",
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/talgautb/qazlatyn-db.git"
+    "url": "git+https://github.com/daniyarmukhanov/qazlatyn-db.git"
   },
   "keywords": [
     "kazakh",
     "qazaq",
     "latin",
-    "alphabet"
+    "alphabet",
+    "balama"
   ],
   "author": "talgautb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/talgautb/qazlatyn-db/issues"
+    "url": "https://github.com/daniyarmukhanov/qazlatyn-db/issues"
   },
-  "homepage": "https://github.com/talgautb/qazlatyn-db#readme"
+  "homepage": "https://github.com/daniyarmukhanov/qazlatyn-db#readme"
 }

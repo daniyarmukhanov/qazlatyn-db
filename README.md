@@ -2,20 +2,17 @@
 
 [![NPM version][npm-image]][npm-url]
 
-> Raw data of kazakh latin alphabet (qazaq latyn)
+> Raw data of kazakh balama latin alphabet (qazaq latyn)
 
 ## Install
 
-    npm install --save qazlatyn-db
+    npm install --save balama-db
 
 ## Usage
 
 ```js
-import qazLatyn from 'qazlatyn-db';
+import qazLatyn from 'balama-db';
 
-qazLatyn['ә']; // ae
-qazLatyn['ң']; // ng
-qazLatyn['қ']; // q
 
 ```
 
